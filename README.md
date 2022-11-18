@@ -22,13 +22,10 @@ Here we are going to address the outcomes.
     
     Arapahoe: 6.7% (24,801)
 
-
+![County Vote Chart](https://user-images.githubusercontent.com/116606765/202620244-9c4ad356-c3ea-4328-8b79-0ba52bec96e4.jpg)
     
 •Which county had the largest number of votes?
   Denver!
-  
-  [Election Results](https://user-images.githubusercontent.com/116606765/202619663-f276121a-86c3-442d-8207-ccf47c8152db.png)
-
   
 •Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
